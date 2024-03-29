@@ -2,6 +2,9 @@
 
 This repository contains a simple implementation of a user card component built using Vite, Tailwind CSS, and React.
 
+![image](https://github.com/RRajalakshmi24/Simple-Card/assets/101980299/a31ac930-fcdf-4097-ab9d-803668665afd)
+
+
 ## Features
 
 - Displays user information in a card format.
