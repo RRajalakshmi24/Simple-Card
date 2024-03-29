@@ -1,8 +1,18 @@
-# React + Vite
+# Simple User Card 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a simple implementation of a user card component built using Vite, Tailwind CSS, and React.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Displays user information in a card format.
+- Utilizes Tailwind CSS for styling.
+- Built with React for component-based UI development.
+- Bundled with Vite for fast development and hot module replacement.
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
